@@ -1,0 +1,163 @@
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+font-display: swap;
+font-weight: 600;
+font-style: normal;
+}
+
+
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+font-display: swap;
+font-weight: 800;
+font-style: normal;
+}
+
+@font-face{
+   font-family: "Roboto";
+   src: url("../fonts/Roboto-ThinItalic.woff2") format("woff2"), url("../fonts/Roboto-ThinItalic.woff") format("woff");
+font-display: swap;
+font-weight: 100;
+font-style: normal;
+}
+
+@font-face{
+   font-family: "Roboto";
+   src: url("../fonts/Roboto-Medium.woff2") format("woff2"), url("../fonts/Roboto-Medium.woff") format("woff");
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+
+@font-face{
+   font-family: "Roboto";
+   src: url("../fonts/Roboto-Bold.woff2") format("woff2"), url("../fonts/Roboto-Bold.woff") format("woff");
+font-display: swap;
+font-weight: 700;
+font-style: normal;
+}
+
+@font-face{
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face{
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+@font-face{
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+font-display: swap;
+font-weight: 700;
+font-style: normal;
+
+}
+body{
+   font-family: "Larsseit", serif;
+   text-align: center;
+   font-weight: 200;
+}
+
+
+/*.head {
+  
+}*/
+/*.head-img {
+}*/
+.head-title {
+   font-family: "Roboto";
+   font-weight: 800;
+   color: rgb(3, 3, 77);
+}
+/*.info {
+}*/
+p.info-start {
+   font-family: "Roboto";
+   font-weight: 400;
+   color: rgb(103, 103, 5);
+}
+.info-name {
+   font-family: "Lato";
+   font-weight: 800;
+   color: black;
+}
+.navigation {
+   font-family: "Roboto";
+   font-weight: 500;
+   color: royalblue;
+}
+
+h2{
+   font-family: "Lato";
+   font-weight: 800;
+   color: green;
+}
+
+h3{
+   font-family: "Roboto";
+   font-weight: 800;
+   color: rgb(255, 0, 0);
+
+}
+/*.navigation-list {
+}*/
+/*.navigation-img {
+}*/
+.content{
+   font-family: "Roboto";
+   font-weight: 500;
+   color: rgb(37, 43, 61);
+}
+/*.histori {
+}*/
+/*.first-histori {
+}*/
+.text {
+   font-family: "Larsseit", serif;
+   font-weight: 400;
+}
+.mision {
+   font-family: "Larsseit", serif;
+   font-weight: 600;
+   
+}
+
+/*.mision-text {
+}
+.mision-blue {
+}*/
+.mision-list {
+   font-family: "Lato", serif;
+   font-weight: 700;
+   color: blueviolet;
+}
+
+.structure {
+   font-family: "Lato", serif;
+   font-weight: 800;
+}
+/*.structure-all {
+}
+*/
+
